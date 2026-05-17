@@ -1,30 +1,96 @@
-# 💫 About Me:
-Flutter Developer with experience in building scalable, high-performance mobile applications for Android and iOS.  
-Strong problem-solving skills and high attention to detail.  
-Proficient in Flutter, Dart, and advanced state management (BLoC, Riverpod, Provider).  
-Experienced in API integration, Clean Architecture, and SOLID principles.  
-Skilled in Agile methodologies, Git version control, and CI/CD workflows to ensure timely, high-quality delivery.  
-Passionate about implementing innovative solutions that optimize performance and deliver clean, intuitive UI/UX aligned with business goals.
+<div align="center">
 
+# ⚡ Ahmed Gad Mahmoud ⚡
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahmed.gad.625600/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmed_gad_mahmoud/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-gad-a605061aa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.gadaljamal@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Flutter+Developer;Mobile+Application+Engineer;AI-Powered+Software+Developer;Android+Native+%7C+Flutter+%7C+Python;Building+Scalable+Digital+Experiences" />
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AhmedAljamal15&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AhmedAljamal15&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAljamal15&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://user-images.githubusercontent.com/74038190/216656985-9bcf6e0d-3c9f-4c6d-8f24-c2c7d4c9b546.gif" width="100%"/>
 
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=AhmedAljamal15&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 👨‍💻 About Me
 
----
+```yaml
+name: Ahmed Gad Mahmoud
+location: Egypt 🇪🇬
+university: RWTH Aachen University 🇩🇪
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+role:
+  - Flutter Developer
+  - Mobile Application Engineer
+  - Android Native Developer
+  - AI-Powered Software Developer
+
+specialization:
+  - Cross Platform Development
+  - Clean Architecture
+  - REST API Integration
+  - Firebase Services
+  - Advanced State Management
+  - High Performance Mobile Applications
+
+state_management:
+  - BLoC
+  - Riverpod
+  - Provider
+
+programming_languages:
+  - Dart
+  - Kotlin
+  - Python
+
+currently_learning:
+  - Advanced Android Development
+  - AI Integration
+  - Scalable System Design
+  - Backend Engineering
+
+passion:
+  - Building production-grade applications
+  - Solving complex engineering problems
+  - Creating premium UI/UX experiences
+🌐 Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/ahmed-gad-a605061aa/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ahmed.gadaljamal@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.instagram.com/ahmed_gad_mahmoud/"> <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.facebook.com/ahmed.gad.625600/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> </div>
+🚀 Tech Arsenal
+<div align="center">
+📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
+💻 Programming & AI
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+⚙️ Backend • Database • Tools
+<img src="https://skillicons.dev/icons?i=git,github,graphql,sqlite,figma,vscode" /> </div>
+🧠 Engineering Philosophy
+<div align="center">
+
+“I don't just build apps.
+I engineer scalable digital experiences.”
+
+</div>
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedAljamal15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAljamal15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAljamal15&theme=radical&hide_border=true&background=0D1117"/> </div>
+🔥 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAljamal15&theme=react-dark&hide_border=true&bg_color=0D1117"/> </div>
+🏆 Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AhmedAljamal15&theme=radical&no-frame=true&margin-w=15&margin-h=15"/> </div>
+🐍 Snake Eating My Contributions
+<div align="center">
+
+</div>
+🚀 Featured Technologies
+<div align="center">
+Mobile Development	Architecture	AI & Automation	Backend
+Flutter	Clean Architecture	Gemini AI	Firebase
+Kotlin	SOLID Principles	AI Integrations	REST APIs
+Android Native	BLoC / Riverpod	Automation	GraphQL
+</div>
+✨ Random Dev Quote
+<div align="center">
+
+</div>
+👀 Profile Views
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedAljamal15&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/> </div>
+<div align="center">
+⚡ Code • Create • Innovate ⚡
+</div> ```
