@@ -15,7 +15,6 @@
 ```yaml
 name: Ahmed Gad Mahmoud
 location: Egypt 🇪🇬
-university: RWTH Aachen University 🇩🇪
 
 role:
   - Flutter Developer
@@ -59,7 +58,7 @@ passion:
 📱 Mobile Development
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
 💻 Programming & AI
-<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python" />
 ⚙️ Backend • Database • Tools
 <img src="https://skillicons.dev/icons?i=git,github,graphql,sqlite,figma,vscode" /> </div>
 🧠 Engineering Philosophy
@@ -112,12 +111,3 @@ I engineer scalable digital experiences.”
 ## ⚡ Code • Create • Innovate ⚡
 
 </div>
-✨ Random Dev Quote
-<div align="center">
-
-</div>
-👀 Profile Views
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedAljamal15&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/> </div>
-<div align="center">
-⚡ Code • Create • Innovate ⚡
-</div> ```
