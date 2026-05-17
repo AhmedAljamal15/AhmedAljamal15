@@ -51,6 +51,7 @@ passion:
   - Building production-grade applications
   - Solving complex engineering problems
   - Creating premium UI/UX experiences
+```
 🌐 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/ahmed-gad-a605061aa/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ahmed.gadaljamal@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.instagram.com/ahmed_gad_mahmoud/"> <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.facebook.com/ahmed.gad.625600/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> </div>
 🚀 Tech Arsenal
