@@ -70,21 +70,47 @@ I engineer scalable digital experiences.”
 
 </div>
 📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedAljamal15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAljamal15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAljamal15&theme=radical&hide_border=true&background=0D1117"/> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedAljamal15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAljamal15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAljamal15&theme=tokyonight&hide_border=true&background=0D1117"/> </div>
 🔥 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAljamal15&theme=react-dark&hide_border=true&bg_color=0D1117"/> </div>
-🏆 Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AhmedAljamal15&theme=radical&no-frame=true&margin-w=15&margin-h=15"/> </div>
-🐍 Snake Eating My Contributions
+---
+
+# ⚡ Tech Focus
+
 <div align="center">
 
+<img src="https://img.shields.io/badge/Flutter%20Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Android%20Native-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=codefactor&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/AI%20Integration-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 </div>
-🚀 Featured Technologies
+
+---
+
+# 📈 GitHub Activity
+
 <div align="center">
-Mobile Development	Architecture	AI & Automation	Backend
-Flutter	Clean Architecture	Gemini AI	Firebase
-Kotlin	SOLID Principles	AI Integrations	REST APIs
-Android Native	BLoC / Riverpod	Automation	GraphQL
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAljamal15&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Code • Create • Innovate ⚡
+
 </div>
 ✨ Random Dev Quote
 <div align="center">
