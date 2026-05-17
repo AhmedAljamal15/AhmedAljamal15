@@ -53,19 +53,41 @@ passion:
 ```
 🌐 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/ahmed-gad-a605061aa/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ahmed.gadaljamal@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.instagram.com/ahmed_gad_mahmoud/"> <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.facebook.com/ahmed.gad.625600/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> </div>
-🚀 Tech Arsenal
-<div align="center">
-📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
-💻 Programming & AI
-<img src="https://skillicons.dev/icons?i=python" />
-⚙️ Backend • Database • Tools
-<img src="https://skillicons.dev/icons?i=git,github,graphql,sqlite,figma,vscode" /> </div>
-🧠 Engineering Philosophy
+# 🚀 Tech Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>📱 Mobile Development</h3>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 Programming & AI</h3>
+      <img src="https://skillicons.dev/icons?i=python" />
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,graphql,sqlite,figma,vscode" />
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🧠 Engineering Philosophy
+
 <div align="center">
 
-“I don't just build apps.
-I engineer scalable digital experiences.”
+<table>
+  <tr>
+    <td align="center">
+      <h3>“I don't just build apps.”</h3>
+      <h2>I engineer scalable digital experiences.</h2>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 </div>
 📊 GitHub Analytics
